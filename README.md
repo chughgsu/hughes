@@ -1,4 +1,4 @@
-This code through explores the relationship between sports betting consumption. household consumption trends, and economic sentiment, aiming to determine whether consumers treat spending on betting platforms similarly to essential household expenditures and adjust their spending to match their current outlook of the economy’s performance. By analyzing available financial and behavioral data, this project investigates the potential economic and psychological connections between traditional consumption and the rising normalization of sports betting.
+This code through explores the relationship between sports betting consumption, household consumption trends, and economic sentiment, aiming to determine whether consumers treat spending on betting platforms similarly to essential household expenditures and adjust their spending to match their current outlook of the economy’s performance. By analyzing available financial and behavioral data, this project investigates the potential economic and psychological connections between traditional consumption and the rising normalization of sports betting.
 
 
 
